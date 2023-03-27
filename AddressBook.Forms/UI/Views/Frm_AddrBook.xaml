@@ -5,17 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AddressBook.Forms.UI.Views"
         mc:Ignorable="d"
-        Title="Frm_AddrBook" Height="864" Width="300"
+        Title="Frm_AddrBook" Height="600" Width="800"
         WindowStyle="None" ResizeMode="CanMinimize" StateChanged="window_StateChanged" LocationChanged="window_LocationChanged">
-    <Border Name="main" BorderThickness="1" BorderBrush="LightGray" Margin="0">
+    <Border Name="main" BorderThickness="1.35" BorderBrush="#2E9AFE" Margin="0">
         <DockPanel>
-            <Border Name="border" DockPanel.Dock="Top" Height="25">
-                <Grid>
+            <Border Name="border" DockPanel.Dock="Top" Height="25" >
+                <Grid Background="#2E9AFE">
                     <Label VerticalContentAlignment="Center" Margin="10,0,105,0" PreviewMouseDown="System_MouseDown" PreviewMouseMove="System_MouseMove">
                         <TextBlock Text="{Binding Title, RelativeSource = {RelativeSource Mode = FindAncestor, AncestorType = {x:Type Window}}}"/>
                     </Label>
                     <!-- Title Bar Area -->
-                    <Grid HorizontalAlignment="Right" Background="White">
+                    <Grid HorizontalAlignment="Right" Background="#2E9AFE">
                         <Grid.Resources>
                             <Style TargetType = "{x:Type Button}" x:Key = "systemButton">
                                 <Setter Property="Padding" Value="0"/>

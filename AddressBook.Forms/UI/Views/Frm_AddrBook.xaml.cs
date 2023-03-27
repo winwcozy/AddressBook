@@ -182,28 +182,14 @@ namespace AddressBook.Forms.UI.Views
             //}
             #endregion
 
-            PresentationSource source = PresentationSource.FromVisual(this);
-
-            // 현재 DPI 값을 가져옴
-            var dpiX = System.Windows.Forms.Screen.PrimaryScreen.Bounds.Width * 96.0 / System.Windows.Forms.Screen.PrimaryScreen.WorkingArea.Width;
-            var dpiY = System.Windows.Forms.Screen.PrimaryScreen.Bounds.Height * 96.0 / System.Windows.Forms.Screen.PrimaryScreen.WorkingArea.Height;
-
 
             int sum = 0;
-            foreach (System.Windows.Forms.Screen screen in screens)
+            foreach (System.Windows.Forms.Screen item in screens)
             {
-                sum += screen.WorkingArea.Width;
+                sum += item.WorkingArea.Width;
                 if (sum >= this.Left + this.Width / 2)
                 {
-
-                    if (source != null)
-                    {
-                        var screenDpiX = 96.0 * source.CompositionTarget.TransformToDevice.M11;
-                        var screenDpiY = 96.0 * source.CompositionTarget.TransformToDevice.M22;
-                    }
-
-                    this.MaxHeight = screen.Bounds.Height * dpiY / screen.WorkingArea.Height;
-                    this.UpdateLayout();
+                    this.MaxHeight = item.WorkingArea.Height;
                     break;
                 }
             }

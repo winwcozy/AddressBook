@@ -11,7 +11,6 @@ C:\project\AddressBook\AddressBook\obj\Debug\AddressBook.exe
 C:\project\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
 C:\project\AddressBook\AddressBook\bin\Debug\AddressBook.exe
 C:\project\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
-C:\project\AddressBook\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
 C:\project\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
 C:\project\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
 C:\project\AddressBook\AddressBook\bin\Debug\AddressBook.Forms.dll
@@ -26,3 +25,6 @@ C:\project\AddressBook\AddressBook\AddressBook\bin\Debug\AddressBook.Forms.pdb
 C:\project\AddressBook\AddressBook\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
 C:\project\AddressBook\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
 C:\project\AddressBook\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+C:\project\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+C:\project\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+C:\project\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.CopyComplete
