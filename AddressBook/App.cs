@@ -17,7 +17,7 @@ namespace AddressBook
             //AddrBook_Window window = new AddrBook_Window();
             //window.Show();
 
-            Frm_AddrBook frm = new Frm_AddrBook();
+            Frm_AddrBook frm = new Frm_AddrBook(null);
             frm.Show();
         }
     }
