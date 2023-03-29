@@ -1,0 +1,30 @@
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+C:\project\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+C:\project\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+C:\project\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+C:\project\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+C:\project\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+C:\project\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\project\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+C:\project\AddressBook\AddressBook\bin\Debug\AddressBook.Forms.dll
+C:\project\AddressBook\AddressBook\bin\Debug\AddressBook.Forms.pdb
+C:\project\AddressBook\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+C:\project\AddressBook\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+C:\project\AddressBook\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+C:\project\AddressBook\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+C:\project\AddressBook\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+C:\project\AddressBook\AddressBook\AddressBook\bin\Debug\AddressBook.Forms.dll
+C:\project\AddressBook\AddressBook\AddressBook\bin\Debug\AddressBook.Forms.pdb
+C:\project\AddressBook\AddressBook\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
+C:\project\AddressBook\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\project\AddressBook\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+C:\project\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+C:\project\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+C:\project\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.CopyComplete

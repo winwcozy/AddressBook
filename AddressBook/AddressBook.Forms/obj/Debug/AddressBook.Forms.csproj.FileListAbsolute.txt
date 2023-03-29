@@ -1,0 +1,44 @@
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook.Forms\bin\Debug\AddressBook.Forms.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook.Forms\bin\Debug\AddressBook.Forms.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook.Forms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms_MarkupCompile.lref
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook.Forms\obj\Debug\Themes\Generic.baml
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook.Forms\obj\Debug\Themes\Views\AddrBook_Window.baml
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.g.resources
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.pdb
+C:\project\AddressBook\AddressBook\AddressBook.Forms\bin\Debug\AddressBook.Forms.dll
+C:\project\AddressBook\AddressBook\AddressBook.Forms\bin\Debug\AddressBook.Forms.pdb
+C:\project\AddressBook\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.csprojResolveAssemblyReference.cache
+C:\project\AddressBook\AddressBook\AddressBook.Forms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\project\AddressBook\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms_MarkupCompile.cache
+C:\project\AddressBook\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms_MarkupCompile.lref
+C:\project\AddressBook\AddressBook\AddressBook.Forms\obj\Debug\Themes\Generic.baml
+C:\project\AddressBook\AddressBook\AddressBook.Forms\obj\Debug\Themes\Views\AddrBook_Window.baml
+C:\project\AddressBook\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.g.resources
+C:\project\AddressBook\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.Properties.Resources.resources
+C:\project\AddressBook\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.csproj.GenerateResource.Cache
+C:\project\AddressBook\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.dll
+C:\project\AddressBook\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.pdb
+C:\project\AddressBook\AddressBook\AddressBook.Forms\obj\Debug\UI\Views\Frm_AddrBook.g.cs
+C:\project\AddressBook\AddressBook\AddressBook.Forms\obj\Debug\UI\Views\Frm_AddrBook.baml
+C:\project\AddressBook\AddressBook.Forms\bin\Debug\AddressBook.Forms.dll
+C:\project\AddressBook\AddressBook.Forms\bin\Debug\AddressBook.Forms.pdb
+C:\project\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.csproj.AssemblyReference.cache
+C:\project\AddressBook\AddressBook.Forms\obj\Debug\UI\Views\Frm_AddrBook.g.cs
+C:\project\AddressBook\AddressBook.Forms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\project\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms_MarkupCompile.cache
+C:\project\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms_MarkupCompile.lref
+C:\project\AddressBook\AddressBook.Forms\obj\Debug\Themes\Generic.baml
+C:\project\AddressBook\AddressBook.Forms\obj\Debug\Themes\Views\AddrBook_Window.baml
+C:\project\AddressBook\AddressBook.Forms\obj\Debug\UI\Views\Frm_AddrBook.baml
+C:\project\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.g.resources
+C:\project\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.Properties.Resources.resources
+C:\project\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.csproj.GenerateResource.cache
+C:\project\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.csproj.CoreCompileInputs.cache
+C:\project\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.dll
+C:\project\AddressBook\AddressBook.Forms\obj\Debug\AddressBook.Forms.pdb
