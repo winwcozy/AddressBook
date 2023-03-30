@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AddressBook.Forms.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
@@ -21,11 +22,18 @@ namespace AddressBook.Forms.UI.Views
     public partial class Frm_AddrBook : Window
     {
         /// <summary>
+        /// Frm_AddrBook Controller
+        /// </summary>
+        private Controller_AddrBook _ControllerAddrBook = null;
+
+        /// <summary>
         /// 생성자
         /// </summary>
-        public Frm_AddrBook()
+        public Frm_AddrBook(Controller_AddrBook _ControllerAddrBook)
         {
             InitializeComponent();
+
+            _ControllerAddrBook = new Controller_AddrBook(this);
         }
 
         private Point startPos;

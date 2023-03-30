@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Frm_AddrBook" Height="600" Width="800"
         WindowStyle="None" ResizeMode="CanMinimize" StateChanged="window_StateChanged" LocationChanged="window_LocationChanged">
-    <Border Name="main" BorderThickness="1.35" BorderBrush="#2E9AFE" Margin="0">
+    <Border Name="main" BorderThickness="1.5" BorderBrush="#2E9AFE" Margin="0">
         <DockPanel>
             <Border Name="border" DockPanel.Dock="Top" Height="25" >
                 <Grid Background="#2E9AFE">
@@ -87,7 +87,57 @@
             </Border>
             <Grid DockPanel.Dock="Bottom">
                 <!-- Content Area -->
-                
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="25"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="170"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                    </Grid.ColumnDefinitions>
+                    <!-- Grid.Row="1" Grid.Column="1" Area -->
+                    <Grid Grid.Column="1">
+                        <DataGrid Name="dgAddrInfo" RowHeaderWidth="0" AutoGenerateColumns="False" CanUserAddRows="False">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="No." Width="30" Binding="{Binding row}"/>
+                                <DataGridTextColumn Header="Name" Width="90" Binding="{Binding Name}"/>
+                                <DataGridTextColumn Header="Tel" Binding="{Binding Tel}" Visibility="Collapsed"/>
+                                <DataGridTextColumn Header="Email" Width="1*" Binding="{Binding Email}"/>
+                                <DataGridTextColumn Header="Address" Binding="{Binding Address}" Visibility="Collapsed" />
+                                <DataGridTextColumn Header="Company" Width="90" Binding="{Binding Company}"/>
+                                <DataGridTextColumn Header="Department" Binding="{Binding Department}" Visibility="Collapsed" />
+                                <DataGridTextColumn Header="JobTitle" Binding="{Binding JobTitle}" Visibility="Collapsed" />
+                            </DataGrid.Columns>
+
+                        </DataGrid>
+                    </Grid>
+                    <!-- Grid.Row="1" Grid.Column="2" Area -->
+                    <Grid Grid.Column="2">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="100"/>
+                            <RowDefinition Height="1*"/>
+                        </Grid.RowDefinitions>
+                        <!-- Grid.Row="0" Grid.Column="2" Area -->
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100"/>
+                                <ColumnDefinition Width="1*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Column="0">
+                                <Image Source="{Binding ImageUrl}"/>
+                            </Grid>
+                            <Grid Grid.Column="1">
+                                <Label Content="{Binding Name, FallbackValue='Winw'}" Margin="10,5,0,0"/>
+                                <Label Content="{Binding JobTitle, FallbackValue='Staff'}" Margin="10,35,0,0"/>
+                                <Label Content="{Binding Department, FallbackValue='Dev 2 Team'}" Margin="10,55,0,0"/>
+                                <Label Content="{Binding Company, FallbackValue='NVIDA'}" Margin="10,75,0,0"/>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </Grid>
             </Grid>
         </DockPanel>
     </Border>
